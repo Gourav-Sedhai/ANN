@@ -9,4 +9,4 @@ Added dropouts and other some codes for making model more accurate (Option 2).
 
 ann3.py* 
 -------
-Improving and tuning the ANN(Option 3).
+Improving and tuning the ANN (Option 3).
